@@ -50,6 +50,13 @@ websites:
       img: gilt.png
       tfa: No
 
+    - name: Holmes Jewelry
+      url: http://holmesjewelryaz.com
+      twitter: holmesjewelry
+      sms: no
+      tfa: Yes
+      doc: http://holmesjewelryaz.com/introducing-two-form-factor-authentication/
+
     - name: Macy's
       url: http://www.macys.com/
       twitter: macys
